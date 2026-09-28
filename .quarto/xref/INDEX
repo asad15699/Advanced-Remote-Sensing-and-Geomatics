@@ -1,0 +1,35 @@
+{
+  "intro_to_R_week1.qmd": {
+    "intro_to_R_week1.html": "72c9ac48"
+  },
+  "raster_layer_week2.qmd": {
+    "raster_layer_week2.html": "c19d33d1"
+  },
+  "index.qmd": {
+    "index.html": "95210d9f"
+  },
+  "raster_vector_week3.qmd": {
+    "raster_vector_week3.html": "354ae405"
+  },
+  "sentinel2data_in_R_week4.qmd": {
+    "sentinel2data_in_R_week4.html": "5756c9a7"
+  },
+  "SpectralOrofiles_featureSpace_vegetationIndices_week5.qmd": {
+    "SpectralOrofiles_featureSpace_vegetationIndices_week5.html": "8256aa6a"
+  },
+  "RandonForest_Classification_week6.qmd": {
+    "RandonForest_Classification_week6.html": "1e1308d5"
+  },
+  "RadomForest_Regression_week7.qmd": {
+    "RadomForest_Regression_week7.html": "dc90218c"
+  },
+  "IntroToLidar_Week 8.qmd": {
+    "IntroToLidar_Week 8.html": "79f88f43"
+  },
+  "IntroToLidar_Week8.qmd": {
+    "IntroToLidar_Week8.html": "494e441c"
+  },
+  "IntroToLidar_part2_Week8.qmd": {
+    "IntroToLidar_part2_Week8.html": "2bf1617f"
+  }
+}
